@@ -1,27 +1,14 @@
-# Store
+# PlayStation Store - Desafio bootcamp: Angular
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 16.2.2.
+## Tecnologias utilizadas
+![Git](https://img.shields.io/badge/Git-black?style=for-the-badge&logo=Git&logoColor=00ffee)
+![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=GitHub&logoColor=00ffee)
+![CSS](https://img.shields.io/badge/CSS3-black?style=for-the-badge&logo=CSS3&logoColor=00ffee)
+![HTML](https://img.shields.io/badge/HTML5-black?style=for-the-badge&logo=HTML5&logoColor=00ffee)
+![TypeScript](https://img.shields.io/badge/TypeScript-black?style=for-the-badge&logo=TypeScript&logoColor=00ffee)
+![Angular](https://img.shields.io/badge/Angular-black?style=for-the-badge&logo=Angular&logoColor=00ffee)
 
-## Development server
+```Criei uma Playstation Store de acordo com o que é ensinado durante o projeto , adicionei os links na referência para poder navegar pelo site original e mudei o tema para mais parecido com o atual do site.```
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
+https://github.com/rafamago/playstation-store-angular/assets/137111135/f3753bc8-1d1e-4358-9190-acc3f5b586c3
 
-## Code scaffolding
-
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
-
-## Build
-
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
-
-## Running unit tests
-
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
-
-## Running end-to-end tests
-
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
-
-## Further help
-
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
